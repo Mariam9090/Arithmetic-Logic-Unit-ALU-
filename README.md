@@ -1,2 +1,9 @@
 # Arithmetic-Logic-Unit-ALU-
-Digital Circuits at Ain Shams University, Spring 2025. Includes VHDL/Verilog code for a 4-bit Arithmetic and Logical Unit (ALU), testbench simulations, transistor-level schematics, power/delay analysis, and flip-flop design.
+This repository contains the complete implementation of a custom 4-bit Arithmetic and Logical Unit (ALU) designed using digital logic principles and implemented in Verilog , including:
+
+Full arithmetic and logical operations
+Input/output flip-flops
+Testbench simulations
+Transistor-level schematics
+Power consumption and delay analysis
+Transient simulations under worst-case conditions
